@@ -5,10 +5,9 @@
   "main": "server.js",
   "homepage": "https://ThularaAX.github.io/json-server",
   "scripts": {
-    "predeploy": "npm run build",
+    "build": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "node server.js",
-    "build": "react-scripts build",
     "dev": "nodemon server.js",
     "seed": "cp db/seeds.json db/db.json"
   },
