@@ -3,7 +3,122 @@
     {
       "id": 1,
       "name":"bulbasaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
       "likes": 106
+    },
+    {
+      "id": 2,
+      "name":"ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+      "likes": 492
+    },
+    {
+      "id": 3,
+      "name":"venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+      "likes": 72
+    },
+    {
+      "id": 4,
+      "name":"charmander",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+      "likes": 94
+    },
+    {
+      "id": 5,
+      "name":"charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+      "likes": 62
+    },
+    {
+      "id": 6,
+      "name":"charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+      "likes": 92
+    },
+    {
+      "id": 7,
+      "name":"squirtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+      "likes": 62
+    },
+    {
+      "id": 8,
+      "name":"wartortle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+      "likes": 73
+    },
+    {
+      "id": 9,
+      "name":"blastoise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+      "likes": 28
+    },
+    {
+      "id": 10,
+      "name":"caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+      "likes": 26
+    },
+    {
+      "id": 11,
+      "name":"metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+      "likes": 87
+    },
+    {
+      "id": 12,
+      "name":"butterfree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+      "likes": 80
+    },
+    {
+      "id": 13,
+      "name":"weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+      "likes": 63
+    },
+    {
+      "id": 14,
+      "name":"kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+      "likes": 20
+    },
+    {
+      "id": 15,
+      "name":"beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+      "likes": 43
+    },
+    {
+      "id": 16,
+      "name":"pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+      "likes": 65
+    },
+    {
+      "id": 17,
+      "name":"pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+      "likes": 18
+    },
+    {
+      "id": 18,
+      "name":"pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+      "likes": 83
+    },
+    {
+      "id": 19,
+      "name":"rattata",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+      "likes": 54
+    },
+    {
+      "id": 20,
+      "name":"raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/20.png",
+      "likes": 208
     }
   ]
 }
